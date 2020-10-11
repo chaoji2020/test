@@ -1,6 +1,6 @@
-### embyonekey
+### 
 
-- 群辉emby套件版服务端一点五键白嫖
+- 群辉e.m.b.y套件版服务端一点五键白嫖
 - 左点点右点点,算你一点五键吧
 
 # 提前说下
@@ -13,7 +13,7 @@
 <br/>请科学好raw.githubusercontent.com网址
 
 ### 步骤说明
-<br/>0. 在群辉中安装好Web Station跟EMBY
+<br/>0. 在群辉中安装好Web Station跟e.m.b.y
 <br/>1. 打开Web Station如图所示新建虚拟主机
 <br><img src="https://github.com/chaoji2020/test/blob/main/webstation.png"><br>
 <br/>2. 打开群辉控制面板-安全性-证书
@@ -82,7 +82,7 @@ ssh中运行命令查看是否正确返回值
 <br/>
 <br/>![](https://github.com/chaoji2020/test/blob/main/ko.png)
 <br/>
-<br/>在Emby Premiere中输入任何秘钥都可以激活成功
+<br/>在e.m.b.y Premiere中输入任何秘钥都可以激活成功
 <br/>
 <br/>![](https://github.com/chaoji2020/test/blob/main/ko1.png)
 
